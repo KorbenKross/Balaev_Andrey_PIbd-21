@@ -1,0 +1,49 @@
+D:\Visual Studio 2015\Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Visual Studio 2015\Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Visual Studio 2015\Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\Debug\FirstLab.Form1.resources
+D:\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\dns\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\dns\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\dns\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\dns\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\dns\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\dns\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\dns\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\dns\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\dns\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.WindowsFormsApplication2.resources
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.WindowsFormsApplication2.resources
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Kross\Downloads\TOO OLD\РАБ.СТОЛ\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kross\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Kross\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Kross\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kross\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Kross\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.WindowsFormsApplication2.resources
+C:\Users\Kross\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Kross\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Kross\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Kross\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Kross\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kross\Desktop\TPC#Lab1\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Kross\Desktop\TPC#Lab1\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Kross\Desktop\TPC#Lab1\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kross\Desktop\TPC#Lab1\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Kross\Desktop\TPC#Lab1\obj\Debug\WindowsFormsApplication2.WindowsFormsApplication2.resources
+C:\Users\Kross\Desktop\TPC#Lab1\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Kross\Desktop\TPC#Lab1\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Kross\Desktop\TPC#Lab1\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Kross\Desktop\TPC#Lab1\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Kross\Desktop\TPC#Lab1\obj\Debug\WindowsFormsApplication2.pdb
