@@ -76,7 +76,7 @@ namespace Lab2
         private void button3_Click(object sender, EventArgs e)
         {
             if (listBoxLevels.SelectedIndex > -1)
-                {//Прежде чем забрать машину, надо выбрать с какого уровня будем забирать
+                {
                     string level = listBoxLevels.Items[listBoxLevels.SelectedIndex].ToString();
                     if (maskedTextBox1.Text != "")
                     {
