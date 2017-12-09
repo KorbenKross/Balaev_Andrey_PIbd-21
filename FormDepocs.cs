@@ -74,7 +74,7 @@ namespace Lab2
         {
             {
                 if (listBoxLevels.SelectedIndex > -1)
-                {//Прежде чем забрать машину, надо выбрать с какого уровня будем забирать
+                {
                     string level = listBoxLevels.Items[listBoxLevels.SelectedIndex].ToString();
                     if (maskedTextBox1.Text != "")
                     {
@@ -88,7 +88,7 @@ namespace Lab2
                         Draw();
                     }
                     else
-                    {//иначесообщаемобэтом
+                    {
                         MessageBox.Show("Извинте, на этом месте нет машины");
                     }
 
