@@ -74,7 +74,6 @@ namespace WindowsFormsApplication2
                     
                 }
                 numericUpDown1.Enabled = false;
-                //radioButton2.Checked = true;
                 button1.Enabled = false;
                 MessageBox.Show("Картошку помыли, можно чистить", "Кухня", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -105,7 +104,6 @@ namespace WindowsFormsApplication2
                     carrot[i].Dirty = 0;
                 }
                 numericUpDown2.Enabled = false;
-                //radioButtonClose.Checked = true;
                 button18.Enabled = false;
                 MessageBox.Show("Морковку помыли, можно чистить", "Кухня", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -135,7 +133,6 @@ namespace WindowsFormsApplication2
                     tomato[i].Dirty = 0;
                 }
                 numericUpDown4.Enabled = false;
-                //radioButtonClose.Checked = true;
                 button17.Enabled = false;
                 MessageBox.Show("Помидорку помыли, можно чистить", "Кухня", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -165,7 +162,6 @@ namespace WindowsFormsApplication2
                     zucchini[i].Dirty = 0;
                 }
                 numericUpDown3.Enabled = false;
-                //radioButtonClose.Checked = true;
                 button19.Enabled = false;
                 MessageBox.Show("Кабачок помыли, можно чистить", "Кухня", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -195,7 +191,6 @@ namespace WindowsFormsApplication2
                     bow[i].Dirty = 0;
                 }
                 numericUpDown5.Enabled = false;
-                //radioButtonClose.Checked = true;
                 button7.Enabled = false;
                 MessageBox.Show("Лук помыли, можно чистить", "Кухня", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -279,11 +274,6 @@ namespace WindowsFormsApplication2
                 MessageBox.Show("Картошки то нет, что чистить?", "Ошибка логики", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            //if (potatos.Length == 0)
-            //{
-            //    MessageBox.Show("Картошки то нет, что чистить?", "Ошибка логики", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            //    return;
-            //}
             for (int i = 0; i < potatos.Length; ++i)
             {
                 if (potatos[i].Dirty > 0)
@@ -326,7 +316,6 @@ namespace WindowsFormsApplication2
             {
                 knife.Clean_carrot(carrot[i]);
             }
-            //buttonAddPotatos.Enabled = true;
             button16.Enabled = false;
             MessageBox.Show("Морковь помыли, можно кидать в кастрюлю", "Кухня", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
@@ -342,9 +331,7 @@ namespace WindowsFormsApplication2
             {
                 pan.AddWater(waterTap.GetWater());
             }
-            //btnAddSalt.Enabled = true;
             button4.Enabled = false;
-            //radioButtonClose.Checked = true;
             MessageBox.Show("Воду залили", "Кухня", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
@@ -598,7 +585,6 @@ namespace WindowsFormsApplication2
             oven.Cook();
             if (oven.Pan.IsReady())
             {
-                //buttonGetPan.Enabled = true;
                 checkBox1.Checked = false;
                 MessageBox.Show("Готово!", "Кухня", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
@@ -612,7 +598,8 @@ namespace WindowsFormsApplication2
 
         private void button15_Click(object sender, EventArgs e)
         {
-            //buttonDrain.Enabled = true;
+        
+        
             MessageBox.Show("Убрали с плиты", "Кухня", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
